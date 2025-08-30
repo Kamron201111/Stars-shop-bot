@@ -10,8 +10,8 @@ bot = telebot.TeleBot(TOKEN)
 MEMBERS_FILE = 'members.json'
 CHANNELS_FILE = 'channels.json'
 PRODUCTS_FILE = 'products.json'
-admin_id = 7538420552 #put your id here
-ADMIN_USER_IDS = [admin_id]
+admin_id = 6498632307 #put your id here
+ADMIN_USER_IDS = [6498632307]
 banned_users = []
 is_bot_active = True
 
