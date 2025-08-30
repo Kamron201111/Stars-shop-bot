@@ -4,7 +4,7 @@ from telebot.types import LabeledPrice, InlineKeyboardMarkup, InlineKeyboardButt
 import os
 import json
 
-TOKEN = "Your-Bot-Token"
+TOKEN = "7549045887:AAEsCx_I4oRsAebCPfpa9bNf8nbZPc8w9X0"
 PROVIDER_TOKEN = "" # Do Not Edit
 bot = telebot.TeleBot(TOKEN)
 MEMBERS_FILE = 'members.json'
